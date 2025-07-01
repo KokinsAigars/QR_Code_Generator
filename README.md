@@ -1,4 +1,4 @@
-# QR_Code_Generator
+# QR Code Generator
 simple QR Code Generator
 
 1. Load as Maven Project
